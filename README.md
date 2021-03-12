@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mithu Das
 ### A self-taught developer who always try to learn something new and interesting.
 
-- 🌱 I’m currently working with <strong>Laravel, Livewire</strong>
+- 🔭 I’m currently working with <strong>Laravel, Livewire</strong>
 - 🌱 I’m currently learning <strong>Vue Js</strong>
 - 💞️ I’m looking to collaborate on <strong>other developers</strong>
 - ⚡ Fun fact I love to play <b>PUBG</b> & watching <b>Movies</b>
