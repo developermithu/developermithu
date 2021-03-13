@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mithu Das
-### A self-taught developer who always try to learn something new and interesting.
+### A passionate self-taught Full-Stack Web Developer who always try to learn something new and interesting.
 
 - 🔭 I’m currently working with <strong>Laravel, Livewire</strong>
 - 🌱 I’m currently learning <strong>Vue Js</strong>
