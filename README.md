@@ -30,13 +30,6 @@
 <br/>
 <br/>
 
-
-[![Twitter: developermithu](https://img.shields.io/twitter/follow/developermithu?style=social)](https://twitter.com/developermithu)
-[![Linkedin: developermithu](https://img.shields.io/badge/-developermithu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/developermithu/)](https://www.linkedin.com/in/developermithu/)
-[![GitHub developermithu](https://img.shields.io/github/followers/developermithu?label=follow&style=social)](https://github.com/developermithu)
-[![website](https://img.shields.io/badge/PortfolioWebsite-mithu.epizy.com-2648ff?style=flat-square&logo=google-chrome)](http://mithu.epizy.com/)
-
-
 **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
@@ -51,13 +44,11 @@
 <a href="https://github.com/developermithu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=light&line_height=27" alt="developermithu's github stats"/>
 </a>
-<a href="https://github.com/developermithu/
-livewire-ecommerce-project">
+<a href="https://github.com/developermithu/livewire-ecommerce-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=developermithu&repo=
 livewire-ecommerce-project&theme=light" />
 </a>
-<a href="https://github.com/developermithu/
-laravel-api-movie-app">
+<a href="https://github.com/developermithu/laravel-api-movie-app">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=developermithu&repo=
 laravel-api-movie-app&theme=light" />
 </a>
