@@ -38,20 +38,20 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>    
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+
 <a href="https://github.com/developermithu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/developermithu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=light&line_height=27" alt="developermithu's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=light&line_height=27" alt="Developermithu's github stats"/>
 </a>
-<a href="https://github.com/developermithu/livewire-ecommerce-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=developermithu&repo=
-livewire-ecommerce-project&theme=light" />
-</a>
-<a href="https://github.com/developermithu/laravel-api-movie-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=developermithu&repo=
-laravel-api-movie-app&theme=light" />
-</a>
+
 
 <!---
 developermithu/developermithu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
