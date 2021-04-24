@@ -40,10 +40,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>    
 
 <a href="https://github.com/developermithu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/developermithu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dark&line_height=27" alt="Developermithu's github stats"/>
+</a>
+
+<a href="https://github.com/developermithu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&theme=dark&hide_langs_below=1" />
 </a>
 
 
