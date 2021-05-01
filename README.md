@@ -46,9 +46,6 @@
 <a href="https://github.com/developermithu" style="margin-left:50px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&theme=dracula&hide_langs_below=1" />
 </a>
-<a href="https://github.com/developermithu/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=developermithu" />
-</a>
 
 <!---
 developermithu/developermithu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
