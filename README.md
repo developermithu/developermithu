@@ -46,8 +46,8 @@
 <a href="https://github.com/developermithu" style="margin-left:50px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&theme=dracula&hide_langs_below=1" />
 </a>
-<a href="https://github.com/developermithu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=developermithu&repo=github-readme-stats" />
+<a href="https://github.com/developermithu/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=developermithu" />
 </a>
 
 <!---
