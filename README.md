@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on <strong>other developers</strong>
 - 👀 I’m interested in <strong>Flutter</strong>
 - 📫 How to reach me <a href="https://www.facebook.com/developermithu">Facebook</a>, <a href="https://www.linkedin.com/in/developermithu">Linkedin</a>, <a href="https://www.instagram.com/developermithu">Instagram</a>
-- ⚡ Fun fact: Sometimes, I spend almost 12 hours watching movies or playing Gaming.
+- ⚡ Fun fact: Sometimes, I spend almost 12 hours watching movies or playing Games.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Views&color=blue&style=plastic" alt="developermithu" /> </p>
 
