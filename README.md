@@ -40,7 +40,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>    
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula)
 
 <a href="https://github.com/developermithu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&line_height=27" alt="Developermithu's github stats"/>
