@@ -40,7 +40,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>    
 
-[![](https://raw.githubusercontent.com/developermithu/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/developermithu/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/developermithu/developermithu/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <a href="https://github.com/developermithu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&line_height=27" alt="Developermithu's github stats"/>
