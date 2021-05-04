@@ -43,7 +43,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=developermithu&theme=dracula) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=developermithu&theme=dracula)
-
 <a href="https://github.com/developermithu">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&line_height=27" alt="Developermithu's github stats"/>
 </a>
