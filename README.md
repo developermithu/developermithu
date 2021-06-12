@@ -1,5 +1,5 @@
 # 👋 Hi, I’m [Mithu Das!](http://mithu.epizy.com)
-### A passionate self-taught Full-Stack Web Developer who always try to learn something new and interesting.
+### A passionate self-taught Full-Stack Web Developer.
 
 - 🔭 I’m currently working with [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com
 )
