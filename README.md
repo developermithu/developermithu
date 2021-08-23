@@ -1,12 +1,9 @@
 # 👋 Hi, I’m [Mithu Das!](http://mithu.epizy.com)
-## <center>A passionate self-taught Full-Stack Web Developer.</center>
 
 - 🔭 I’m currently working with [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com
-)
-- 🌱 I’m currently learning <strong>Vue Js</strong>
-- 💞️ I’m looking to collaborate on <strong>other developers</strong>
-- 👀 I’m interested in <strong>Flutter</strong>
-- 📫 How to reach me <a href="https://www.facebook.com/developermithu">Facebook</a>, <a href="https://www.linkedin.com/in/developermithu">Linkedin</a>, <a href="https://www.instagram.com/developermithu">Instagram</a>
+) 
+- 🌱 I’m currently learning [Vue Js](https://vuejs.org/)
+- 👀 I’m interested in [Flutter](https://flutter.dev//) 
 - ⚡ Fun fact: Sometimes, I spend almost 12 hours watching movies or playing Games.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Views&color=blue&style=plastic" alt="developermithu" /> </p>
@@ -29,9 +26,8 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula)
-![Developer Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact)](https://github.com/developermithu/github-readme-stats)
-
+![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=8)](https://github.com/developermithu/github-readme-stats)
 
 <h2 align="center">
 Technologies and Languages </h2>
