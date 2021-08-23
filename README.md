@@ -1,4 +1,5 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula)
+### <a align="left"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Views&color=blue&style=plastic" alt="developermithu" /></a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula) 
 ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=8)](https://github.com/developermithu/github-readme-stats)
 
@@ -33,8 +34,6 @@ Technologies and Languages </h2>
 ![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
-
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Views&color=blue&style=plastic" alt="developermithu" /></a>
 
 <!---
 developermithu/developermithu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
