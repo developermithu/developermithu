@@ -1,12 +1,4 @@
-# 👋 Hi, I’m [Mithu Das!](http://mithu.epizy.com)
-
-- 🔭 I’m currently working with [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com
-) 
-- 🌱 I’m currently learning [Vue Js](https://vuejs.org/)
-- 👀 I’m interested in [Flutter](https://flutter.dev//) 
-- ⚡ Fun fact: Sometimes, I spend almost 12 hours watching movies or playing Games.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Views&color=blue&style=plastic" alt="developermithu" /> </p>
+# <span align="left"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Views&color=blue&style=plastic" alt="developermithu" /> </span>
 
 <a href="https://www.facebook.com/developermithu/">
   <img align="left" alt="Developermithu's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
