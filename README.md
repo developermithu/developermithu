@@ -29,9 +29,7 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula)
-<a href="https://github.com/developermithu">
- <img align="center" src="![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=radical)"/>
-</a>
+![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=radical)
 <a href="https://github.com/developermithu" style="margin-left:50px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&theme=dracula&hide_langs_below=1" />
 </a>
