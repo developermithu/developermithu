@@ -29,10 +29,9 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula)
-![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&line_heights=27)
-<a href="https://github.com/developermithu" style="margin-left:50px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&theme=dracula&hide_langs_below=1" />
-</a>
+![Developer Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact)](https://github.com/developermithu/github-readme-stats)
+
 
 <h2 align="center">
 Technologies and Languages </h2>
