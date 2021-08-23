@@ -1,6 +1,7 @@
 # <span align="left"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Views&color=blue&style=plastic" alt="developermithu" /> </span>
 
-<a href="https://www.facebook.com/developermithu/">
+<span>
+  <a href="https://www.facebook.com/developermithu/">
   <img align="left" alt="Developermithu's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://linkedin.com/in/developermithu">
@@ -12,6 +13,7 @@
 <a href="https://twitter.com/developermithu">
   <img align="left" alt="Developermithu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+</span>
 
 <br/>
 <br/>
@@ -19,7 +21,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula)
 ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=8)](https://github.com/developermithu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=10)](https://github.com/developermithu/github-readme-stats)
 
 <h2 align="center">
 Technologies and Languages </h2>
