@@ -1,7 +1,7 @@
 ### <a align="left"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Profile+Views&color=blue&style=plastic" alt="developermithu" /></a>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula) 
-![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6)](https://github.com/developermithu/github-readme-stats)
+<!-- ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6)](https://github.com/developermithu/github-readme-stats) -->
 
 <h2 align="center">
 Technologies and Languages </h2>
