@@ -1,7 +1,7 @@
 ### <a align="left"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Profile+Views&color=blue&style=plastic" alt="developermithu" /></a>
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula&card_width=480)  -->
 <!-- ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=320) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=12&card_width=768)](https://github.com/developermithu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=12&card_width=420)](https://github.com/developermithu/github-readme-stats)
 <!-- [![vue-weather-app](https://github-readme-stats.vercel.app/api/pin/?username=developermithu&repo=vue-weather-app)](https://github.com/developermithu/vue-weather-app) -->
 
 
