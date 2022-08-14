@@ -3,7 +3,7 @@
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula&card_width=480)  -->
 <!-- ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=300) -->
 
-  - 🙂 I'm Mithu
+  - <img src="https://s.gravatar.com/avatar/379743edc09f71c8a1df0846460bd9d6?s=18" /> I'm Mithu
   - 👀 I’m interested in Laravel, Livewire and vuejs olso and python 
   - 🌱 I’m currently learning all new staff react and django 
   - 💞️ I’m looking to collaborate on laravel and vuejs community
@@ -12,15 +12,14 @@
 <details>
   <summary>My Github Stats</summary> <br>
   
- ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=300) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6&card_width=420)](https://github.com/developermithu/github-readme-stats)
+ ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=300) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6&card_width=380)](https://github.com/developermithu/github-readme-stats)
 </details>
 
 <details>
   <summary>Useful Resources</summary>
   <br>
   
-  [![laravel-tips](https://github-readme-stats.vercel.app/api/pin/?username=developermithu&theme=dark&repo=laravel-tips)](https://github.com/developermithu/laravel-tips)
-  [![free-developer-resources](https://github-readme-stats.vercel.app/api/pin/?username=developermithu&repo=free-developer-resources)](https://github.com/developermithu/free-developer-resources)
+  [![laravel-tips](https://github-readme-stats.vercel.app/api/pin/?username=developermithu&theme=tokyonight&repo=laravel-tips)](https://github.com/developermithu/laravel-tips) &nbsp; [![free-developer-resources](https://github-readme-stats.vercel.app/api/pin/?username=developermithu&theme=tokyonight&repo=free-developer-resources)](https://github.com/developermithu/free-developer-resources) &nbsp; [![Laravel-Roadmap-Learning-Path](https://github-readme-stats.vercel.app/api/pin/?username=developermithu&theme=tokyonight&repo=Laravel-Roadmap-Learning-Path)](https://github.com/developermithu/Laravel-Roadmap-Learning-Path)
 </details>
 
 ## Technologies and Languages 
