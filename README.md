@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> &nbsp;&nbsp; 
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> &nbsp; <a align="right"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Profile+Views&color=blue&style=plastic" alt="developermithu"/></a>
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula&card_width=480)  -->
 <!-- ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=300) -->
@@ -7,14 +7,10 @@
   - 🌱 I’m currently learning all new staff react and django 
   - 💞️ I’m looking to collaborate on laravel and vuejs community
   - 📫 How to reach me
-  
-  <a align="right"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Profile+Views&color=blue&style=plastic" alt="developermithu"/></a>
-
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6&card_width=320)](https://github.com/developermithu/github-readme-stats) -->
 
 <!-- [![vue-weather-app](https://github-readme-stats.vercel.app/api/pin/?username=developermithu&repo=vue-weather-app)](https://github.com/developermithu/vue-weather-app) -->
-
 
 
 <!-- <h2 align="center">
