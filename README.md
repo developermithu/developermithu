@@ -3,7 +3,7 @@
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula&card_width=480)  -->
 <!-- ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=300) -->
 
-  - <img src="https://s.gravatar.com/avatar/379743edc09f71c8a1df0846460bd9d6?s=18" /> I'm Mithu
+  - <img src="https://s.gravatar.com/avatar/379743edc09f71c8a1df0846460bd9d6?s=16" /> I'm Mithu
   - 👀 I’m interested in Laravel, Livewire and vuejs olso and python 
   - 🌱 I’m currently learning all new staff react and django 
   - 💞️ I’m looking to collaborate on laravel and vuejs community
@@ -12,7 +12,7 @@
 <details>
   <summary>My Github Stats</summary> <br>
   
- ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=300) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6&card_width=380)](https://github.com/developermithu/github-readme-stats)
+ ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=300) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6&card_width=300)](https://github.com/developermithu/github-readme-stats)
 </details>
 
 <details>
