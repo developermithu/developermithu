@@ -1,20 +1,29 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> &nbsp; <a align="right"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Profile+Views&color=blue&style=plastic" alt="developermithu"/></a>
+# Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> &nbsp; <a align="right"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Profile+Views&color=blue&style=plastic" alt="developermithu"/></a>
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula&card_width=480)  -->
 <!-- ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=300) -->
 
+  - 🙂 I'm Mithu
   - 👀 I’m interested in Laravel, Livewire and vuejs olso and python 
   - 🌱 I’m currently learning all new staff react and django 
   - 💞️ I’m looking to collaborate on laravel and vuejs community
   - 📫 How to reach me
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6&card_width=320)](https://github.com/developermithu/github-readme-stats) -->
+<details>
+  <summary>My Github Stats</summary> <br>
+  
+ ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=300) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6&card_width=420)](https://github.com/developermithu/github-readme-stats)
+</details>
 
-<!-- [![vue-weather-app](https://github-readme-stats.vercel.app/api/pin/?username=developermithu&repo=vue-weather-app)](https://github.com/developermithu/vue-weather-app) -->
+<details>
+  <summary>Useful Resources</summary>
+  <br>
+  
+  [![laravel-tips](https://github-readme-stats.vercel.app/api/pin/?username=developermithu&theme=dark&repo=laravel-tips)](https://github.com/developermithu/laravel-tips)
+  [![free-developer-resources](https://github-readme-stats.vercel.app/api/pin/?username=developermithu&repo=free-developer-resources)](https://github.com/developermithu/free-developer-resources)
+</details>
 
-
-<!-- <h2 align="center">
-Technologies and Languages </h2>
+## Technologies and Languages 
 
 ![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat-square&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
@@ -43,7 +52,7 @@ Technologies and Languages </h2>
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white) -->
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white) 
 
 <!---
 developermithu/developermithu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
