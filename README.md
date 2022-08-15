@@ -12,7 +12,7 @@
 <details>
   <summary>My Github Stats</summary> <br>
   
- ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=300) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6&card_width=300)](https://github.com/developermithu/github-readme-stats)
+ ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=250) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6&card_width=250)](https://github.com/developermithu/github-readme-stats)
 </details>
 
 <details>
