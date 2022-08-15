@@ -1,13 +1,10 @@
-# Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> &nbsp; <a align="right"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Profile+Views&color=blue&style=plastic" alt="developermithu"/></a>
+# Hi There, I'm Mithu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> &nbsp; <a align="right"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Profile+Views&color=blue&style=plastic" alt="developermithu"/></a>
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=developermithu&theme=dracula&card_width=480)  -->
-<!-- ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=300) -->
-
-  - <img src="https://s.gravatar.com/avatar/379743edc09f71c8a1df0846460bd9d6?s=16" /> I'm Mithu
-  - 👀 I’m interested in Laravel, Livewire and vuejs olso and python 
-  - 🌱 I’m currently learning all new staff react and django 
-  - 💞️ I’m looking to collaborate on laravel and vuejs community
-  - 📫 How to reach me
+  - 🌱 I’m currently learning Next js & React Native 
+  - 💞️ I’m looking to collaborate on Laravel and Next js community
+  - 👀 I’m interested in Flutter
+  - 🧑🏻‍💻 I always work on a project
+  - 🤔 How to reach me: [Instagram](https://www.instagram.com/developermithu)
 
 <details>
   <summary>My Github Stats</summary> <br>
