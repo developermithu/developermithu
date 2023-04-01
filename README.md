@@ -1,54 +1,34 @@
 # Hi There, I'm Mithu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> &nbsp; <a align="right"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Profile+Views&color=blue&style=plastic" alt="developermithu"/></a>
 
-  - 🌱 I’m currently learning Next js & React Native 
-  - 💞️ I’m looking to collaborate on Laravel and Next js community
-  - 👀 I’m interested in Flutter
+  - 🌱 I’m currently learning Typescript & React Native 
+  - 💞️ I’m looking to collaborate on Laravel and React js community
+  - 👀 I’m interested in Flutter & Web3
   - 🧑🏻‍💻 I always work on a project
-  - 🤔 How to reach me: [Instagram](https://www.instagram.com/developermithu)
+  - 🤔 How to reach me: [Instagram](https://www.instagram.com/developermithu) [Linkedin](https://www.linkedin.com/in/developermithu) [YouTube](https://www.youtube.com/@developermithu) [Facebook](https://www.facebook.com/programmermithu) 
 
-<details>
-  <summary>My Github Stats</summary> <br>
-  
- ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=250) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=6&card_width=250)](https://github.com/developermithu/github-readme-stats)
-</details>
+![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=250) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=8)](https://github.com/developermithu/github-readme-stats)
 
-<details>
-  <summary>Useful Resources</summary>
-  <br>
-  
-  [![laravel-tips](https://github-readme-stats.vercel.app/api/pin/?username=developermithu&theme=tokyonight&repo=laravel-tips)](https://github.com/developermithu/laravel-tips) &nbsp; [![free-developer-resources](https://github-readme-stats.vercel.app/api/pin/?username=developermithu&theme=tokyonight&repo=free-developer-resources)](https://github.com/developermithu/free-developer-resources) &nbsp; [![Laravel-Roadmap-Learning-Path](https://github-readme-stats.vercel.app/api/pin/?username=developermithu&theme=tokyonight&repo=Laravel-Roadmap-Learning-Path)](https://github.com/developermithu/Laravel-Roadmap-Learning-Path)
-</details>
+If you find value in my efforts, you might want to support me by purchasing a coffee/tea. ☕👇
+
+<a href="https://www.buymeacoffee.com/developermithu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## Technologies and Languages 
 
-![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat-square&logoColor=white)
-![LARAVEL](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
-![LIVEWIRE](https://img.shields.io/badge/Livewire-blue?style=flat-square&logo=livewire&logoColor=white)
-![VueJs](https://img.shields.io/badge/VueJs-42b983?style=flat-square&logo=vuejs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-25D366?style=flat-square&logo=wordpress&logoColor=white)
-![Ajax](https://img.shields.io/badge/Ajax-2CA5E0?style=flat-square&logo=ajax&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4f46e5?style=flat-square&logo=TailwindCSS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-00B2FF?style=flat-square&logo=Bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8B89CC?style=flat-square&logo=JavaScript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-7289DA?style=flat-square&logo=jQuery&logoColor=white)
-![MysQl](https://img.shields.io/badge/MysQl-2D8CFF?style=flat-square&logo=MysQl&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1877F2?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-E4405F?style=flat-square&logo=CSS3&logoColor=white)
-![Vuex](https://img.shields.io/badge/Vuex-42b983?style=flat-square&logo=Vuex&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-42b983?style=flat-square&logo=Vuetify&logoColor=white)
-![VueRouter](https://img.shields.io/badge/Vue-Router-42b983?style=flat-square&logo=VueRouter)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)
-![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=netflix&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white) 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <!---
 developermithu/developermithu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
