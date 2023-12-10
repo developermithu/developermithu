@@ -1,8 +1,8 @@
 # Hi There, I'm Mithu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> &nbsp; <a align="right"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Profile+Views&color=blue&style=plastic" alt="developermithu"/></a>
 
-  - 🌱 I’m currently learning Typescript & React Native 
-  - 💞️ I’m looking to collaborate on Laravel and React js community
-  - 👀 I’m interested in Flutter & Web3
+  - 🌱 I’m currently learning Typescript & React  
+  - 💞️ I’m looking to collaborate on Laravel and Livewire community
+  - 👀 I’m interested in AWS & Flutter
   - 🧑🏻‍💻 I always work on a project
   - 🤔 How to reach me: [Instagram](https://www.instagram.com/developermithu) [Linkedin](https://www.linkedin.com/in/developermithu) [YouTube](https://www.youtube.com/@developermithu) [Facebook](https://www.facebook.com/programmermithu) 
 
