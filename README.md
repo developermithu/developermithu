@@ -7,9 +7,6 @@
 
 ![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=250) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=8)](https://github.com/developermithu/github-readme-stats)
 
-If you value my efforts, you can support me by purchasing a coffee or tea. ☕👇
-
-<a href="https://www.buymeacoffee.com/developermithu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## Technologies and Languages 
 
