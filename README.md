@@ -1,7 +1,7 @@
 # Hi There, I'm Mithu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> &nbsp; <a align="right"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Profile+Views&color=blue&style=plastic" alt="developermithu"/></a>
 
-  - 💻 Building [TallCraftUi](https://tallcraftui.developermithu.com) 
-  - 😍 Looking to collaborate on Laravel & Livewire community
+  - 💻 Building [TallCraftUI](https://tallcraftui.developermithu.com) 
+  - 😍 Looking to collaborate on Laravel community
   - 👨‍💻 Always works on a project 
   - 🤔 How to reach me: [Instagram](https://www.instagram.com/developermithu) [Linkedin](https://www.linkedin.com/in/developermithu) [YouTube](https://www.youtube.com/@developermithu) [Facebook](https://www.facebook.com/developermithu) 
 
