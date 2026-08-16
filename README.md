@@ -70,18 +70,31 @@
 
 ### [TallCraftUI](https://tallcraftui.developermithu.com)
 
+<p align="left">
+  <a href="https://tallcraftui.com">
+    <img
+      src="https://tallcraftui.com/assets/img/tallcraftui-website.png"
+      alt="TallCraftUI"
+      width="660"
+    />
+  </a>
+</p>
+
 A modern UI component ecosystem built for the **TALL Stack**.
 
 **Laravel · Livewire · Alpine.js · Tailwind CSS**
 
 > Building reusable, beautiful, and developer-friendly UI components for Laravel developers.
 
-<p>
-  <a href="https://tallcraftui.developermithu.com">
-    <img src="https://img.shields.io/badge/Documentation-Visit-0F172A?style=for-the-badge" alt="TallCraftUI Documentation">
+<p align="left">
+  <a href="https://tallcraftui.com">
+    <img src="https://img.shields.io/badge/Documentation-Visit-0F172A?style=for-the-badge" alt="Documentation" />
   </a>
-  <a href="https://github.com/developermithu">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://packagist.org/packages/developermithu/tallcraftui">
+    <img src="https://img.shields.io/packagist/dt/developermithu/tallcraftui?label=Downloads&style=for-the-badge" alt="Downloads" />
+  </a>
+  <a href="https://github.com/developermithu/tallcraftui">
+    <img src="https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
