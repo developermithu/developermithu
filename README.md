@@ -1,47 +1,14 @@
-<!--
-# Hi There, I'm Mithu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> &nbsp; <a align="right"> <img src="https://komarev.com/ghpvc/?username=developermithu&label=Profile+Views&color=blue&style=plastic" alt="developermithu"/></a>
-
-  - 💻 Building [TallCraftUI](https://tallcraftui.developermithu.com) 
-  - 😍 Looking to collaborate on Laravel community
-  - 👨‍💻 Always works on a project 
-  - 🤔 How to reach me: [Instagram](https://www.instagram.com/developermithu) [Linkedin](https://www.linkedin.com/in/developermithu) [YouTube](https://www.youtube.com/@developermithu) [Facebook](https://www.facebook.com/developermithu) 
+<h1 align="left">Hey, I'm Mithu 👋</h1>
 
 <p align="left">
-  <a href="https://github.com/developermithu">
-    <picture>
-      <source
-        srcset="https://github-stats-extended.vercel.app/api?username=developermithu&show_icons=true&theme=tokyonight&count_private=true&card_width=420"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img
-        src="https://github-stats-extended.vercel.app/api?username=developermithu&show_icons=true&card_width=420"
-        height="180"
-        alt="Mithu's GitHub stats"
-      />
-    </picture>
-  </a> &nbsp;	&nbsp;
-  
-  <a href="https://github.com/developermithu">
-    <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=tokyonight&langs_count=8&card_width=380"
-      height="180"
-      alt="Top Languages"
-    />
-  </a>
-</p>
--->
-
-<h1 align="center">Hey, I'm Mithu 👋</h1>
-
-<p align="center">
   <strong>Full-Stack Developer · Laravel · React · TALL Stack</strong>
 </p>
 
-<p align="center">
+<p align="left">
   I build scalable web applications, developer tools, and SaaS products.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://developermithu.com">
     <img src="https://img.shields.io/badge/Website-developermithu.com-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
   </a>
@@ -75,7 +42,7 @@
     <img
       src="https://tallcraftui.com/assets/img/tallcraftui-website.png"
       alt="TallCraftUI"
-      width="660"
+      width="620"
     />
   </a>
 </p>
@@ -146,7 +113,7 @@ A modern UI component ecosystem built for the **TALL Stack**.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
   <picture>
     <source
       srcset="https://github-stats-extended.vercel.app/api?username=developermithu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github&card_width=400"
@@ -157,7 +124,7 @@ A modern UI component ecosystem built for the **TALL Stack**.
       height="180"
       alt="Mithu's GitHub Stats"
     />
-  </picture>
+  </picture> &nbsp;&nbsp;
 
   <picture>
     <source
@@ -172,7 +139,7 @@ A modern UI component ecosystem built for the **TALL Stack**.
   </picture>
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://streak-stats.demolab.com?user=developermithu&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
