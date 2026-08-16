@@ -5,7 +5,7 @@
   - 👨‍💻 Always works on a project 
   - 🤔 How to reach me: [Instagram](https://www.instagram.com/developermithu) [Linkedin](https://www.linkedin.com/in/developermithu) [YouTube](https://www.youtube.com/@developermithu) [Facebook](https://www.facebook.com/developermithu) 
 
-![Mithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=250) &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=8)](https://github.com/developermithu/github-readme-stats)
+![Mithu's GitHub stats](https://github-stats-extended.vercel.app/api?username=developermithu&show_icons=true&theme=dracula&count_private=true&card_width=250) &nbsp; &nbsp; [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=developermithu&layout=compact&theme=dracula&langs_count=8)](https://github.com/developermithu/github-readme-stats)
 
 
 <!---
