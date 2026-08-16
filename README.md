@@ -49,7 +49,7 @@
   <a href="https://www.linkedin.com/in/developermithu">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.youtube.com/@developermithu">
+  <a href="https://www.youtube.com/@developermithu" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
