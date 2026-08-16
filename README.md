@@ -139,12 +139,12 @@ A modern UI component ecosystem built for the **TALL Stack**.
   </picture>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img
     src="https://streak-stats.demolab.com?user=developermithu&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
-</p>
+</p> -->
 
 ---
 
