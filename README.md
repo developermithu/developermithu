@@ -1,14 +1,14 @@
-<h1 align="left">Hey, I'm Mithu 👋</h1>
+<h1 align="center">Hey, I'm Mithu 👋</h1>
 
-<p align="left">
+<p align="center">
   <strong>Full-Stack Developer · Laravel · React · TALL Stack</strong>
 </p>
 
-<p align="left">
+<p align="center">
   I build scalable web applications, developer tools, and SaaS products.
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://developermithu.com">
     <img src="https://img.shields.io/badge/Website-developermithu.com-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Website">
   </a>
