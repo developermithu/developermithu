@@ -35,7 +35,7 @@
 
 ## 🧩 Featured Project
 
-### [TallCraftUI](https://tallcraftui.developermithu.com)
+### [TallCraftUI](https://tallcraftui.com)
 
 <p align="left">
   <a href="https://tallcraftui.com">
@@ -158,7 +158,7 @@ A modern UI component ecosystem built for the **TALL Stack**.
         Modern UI components and tools for the Laravel TALL Stack.
       </p>
       <p align="center">
-        <a href="https://tallcraftui.developermithu.com">
+        <a href="https://tallcraftui.com">
           Documentation
         </a>
       </p>
